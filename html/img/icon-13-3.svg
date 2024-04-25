@@ -1,0 +1,6 @@
+<svg id="ruler" xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
+  <g id="Vector" transform="translate(3.25 3.25)">
+    <path id="Vector-2" data-name="Vector" d="M1.049,26.384a3.583,3.583,0,0,1,0-5.067L21.317,1.049a3.583,3.583,0,0,1,5.067,0l5.067,5.067a3.583,3.583,0,0,1,0,5.067L11.183,31.451a3.583,3.583,0,0,1-5.067,0Z" transform="translate(0 0)" fill="none" stroke="#28303f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,15.2l2.533,2.533Zm5.066-5.066L7.6,12.667Zm5.068-5.068L12.667,7.6ZM15.2,0l2.533,2.533Z" transform="translate(11.184 11.184)" fill="none" stroke="#28303f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

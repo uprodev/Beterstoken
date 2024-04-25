@@ -1,0 +1,15 @@
+<svg id="star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="star_clipping_mask" data-name="star clipping mask" d="M0,0H24V24H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="star_clipping_mask-2" data-name="star clipping mask" d="M0,0H24V24H0Z" fill="none"/>
+  <g id="star-2" data-name="star" clip-path="url(#clip-path)">
+    <g id="star-3" data-name="star" transform="translate(1 1)">
+      <g id="Vector">
+        <path id="Vector-border" d="M16.715,20.905,11,17.9,5.286,20.905a1,1,0,0,1-1.452-1.054L4.926,13.49.3,8.986A1,1,0,0,1,.855,7.28L1,8.27H1L.855,7.28l6.391-.934L10.1.557a1,1,0,0,1,1.794,0l2.857,5.789,6.39.934A1,1,0,0,1,21.7,8.986l-4.623,4.5,1.091,6.362a1,1,0,0,1-1.451,1.054Zm-.863-2.713-.837-4.883a1,1,0,0,1,.288-.886l.7.716-.7-.716,3.549-3.457-4.906-.717a1,1,0,0,1-.752-.547l.9-.442h0l-.9.442L11,3.259,8.807,7.7l-.9-.442h0l.9.442a1,1,0,0,1-.752.547l-4.907.717L6.7,12.424,6,13.14H6l.7-.716a1,1,0,0,1,.288.886l-.837,4.882,4.386-2.306a1,1,0,0,1,.931,0ZM11,16.77l.465-.885L11,16.77l-.465-.885ZM11,1l.9-.443L11,1Z" fill="#2a85ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="clear-rectangle" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Vector" transform="translate(2 2)">
+    <path id="Vector-2" data-name="Vector" d="M2.828,1.172A4,4,0,0,1,5.657,0h8.686a4,4,0,0,1,2.828,1.172l1.657,1.657A4,4,0,0,1,20,5.657v8.686a4,4,0,0,1-1.172,2.828l-1.657,1.657A4,4,0,0,1,14.343,20H5.657a4,4,0,0,1-2.828-1.172L1.172,17.172A4,4,0,0,1,0,14.343V5.657A4,4,0,0,1,1.172,2.828Z" fill="none" stroke="#28303f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M14,10H6" fill="none" stroke="#28303f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

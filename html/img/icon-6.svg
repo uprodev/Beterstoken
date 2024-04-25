@@ -1,0 +1,18 @@
+<svg id="arrow-up-right" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="arrow-up-right_clipping_mask" data-name="arrow-up-right clipping mask" d="M0,0H32V32H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="arrow-up-right_clipping_mask-2" data-name="arrow-up-right clipping mask" d="M0,0H32V32H0Z" fill="none"/>
+  <g id="arrow-up-right-2" data-name="arrow-up-right" clip-path="url(#clip-path)">
+    <g id="arrow-up-right-3" data-name="arrow-up-right">
+      <g id="Vector" transform="translate(9.33 9.33)">
+        <path id="Vector-border" d="M-.707,14.04a1,1,0,0,1,0-1.414L.707,14.04A1,1,0,0,1,0,14.333,1,1,0,0,1-.707,14.04Zm0-1.414L12.626-.707a1,1,0,0,1,1.414,0,1,1,0,0,1,0,1.415L.707,14.04Z" fill="#2a85ff"/>
+      </g>
+      <g id="Vector-2" data-name="Vector" transform="translate(9.33 9.33)">
+        <path id="Vector-border-2" data-name="Vector-border" d="M12.334,13.333h2a1,1,0,1,1-2,0Zm0,0V1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1H13.333v0a1,1,0,0,1,1,1V13.333Z" fill="#2a85ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

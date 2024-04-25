@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="303" height="261" viewBox="0 0 303 261">
+  <defs>
+    <filter id="Shape" x="-150" y="-110" width="603" height="561" filterUnits="userSpaceOnUse">
+      <feOffset dy="40" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="50" result="blur"/>
+      <feFlood flood-color="#f2f4f8"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Shape)">
+        <path id="Shape-2" data-name="Shape" d="M0,20A20,20,0,0,1,20,0H283a20,20,0,0,1,20,20V241a20,20,0,0,1-20,20H20A20,20,0,0,1,0,241Z" fill="#fff"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Card_Team" clip-path="url(#clip-path)">
+    <path id="Separator" d="M0,0H263V1H0Z" transform="translate(20 132)" fill="#e9ecf2"/>
+    <g id="Hit_Rate" data-name="Hit Rate" transform="translate(29.5 29.5)">
+      <g id="Chart">
+        <g id="Shape-3" data-name="Shape">
+          <path id="Shape-border" d="M35.5,70A34.5,34.5,0,0,0,70,35.5h1A35.5,35.5,0,0,1,35.5,71ZM0,35.5A35.5,35.5,0,0,1,35.5,0V1a34.5,34.5,0,0,0,0,69v1A35.5,35.5,0,0,1,0,35.5Zm70,0A34.5,34.5,0,0,0,35.5,1V0A35.5,35.5,0,0,1,71,35.5Z" fill="#f2f4fc"/>
+        </g>
+        <path id="Shape-4" data-name="Shape" d="M24,48A24,24,0,1,0,0,24,24,24,0,0,0,24,48Z" transform="translate(11.5 11.5)" fill="#ffbc99"/>
+        <g id="Icon_Frame" data-name="Icon Frame" transform="translate(23.5 23.5)">
+          <path id="Background" d="M0,0H24V24H0Z" fill="none"/>
+          <g id="Vector" transform="translate(3 7)">
+            <path id="Vector-border" d="M3,14V12H15a1,1,0,0,0,1-1V2H2v9a1,1,0,0,0,1,1v2a3,3,0,0,1-3-3V1A1,1,0,0,1,1,0H17V0a1,1,0,0,1,1,1V11a3,3,0,0,1-3,3Z" fill="#1d1e25"/>
+          </g>
+          <g id="Vector-2" data-name="Vector" transform="translate(3 3)">
+            <path id="Vector-border-2" data-name="Vector-border" d="M17,5l.707-.707A1,1,0,0,1,17,6ZM1,6A1,1,0,0,1,.293,4.293L1,5H1L.293,4.293l4-4A1,1,0,0,1,5,0h8V1l.707-.708L13,1V0a1,1,0,0,1,.707.293l4,4L17,5V6ZM14.585,4l-2-2H5.414l-2,2ZM5,1H5L4.293.293Z" fill="#1d1e25"/>
+          </g>
+          <g id="Vector_47" data-name="Vector 47" transform="translate(7 11)">
+            <path id="Vector_47-border" data-name="Vector 47-border" d="M5,0A1,1,0,0,1,5,2ZM1,2A1,1,0,0,1,1,0H5V2Z" fill="#1d1e25"/>
+          </g>
+        </g>
+      </g>
+      <text id="_68_" data-name="68%" transform="translate(95.5 6.5)" fill="#1d1e25" font-size="30" font-family="SegoeUI, Segoe UI" letter-spacing="-0.02em"><tspan x="-23.658" y="32">289</tspan></text>
+      <text id="lorem_ipsum" data-name="lorem ipsum" transform="translate(95.5 57.5)" fill="#808d9e" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">lorem ipsum</tspan></text>
+    </g>
+    <g id="Group_33154" data-name="Group 33154" transform="translate(29.5 164.5)">
+      <g id="Deals" transform="translate(95.5 6.5)">
+        <g id="Group_33152" data-name="Group 33152">
+          <g id="Group_33153" data-name="Group 33153">
+            <text id="_76_" data-name="76%" fill="#1d1e25" font-size="30" font-family="SegoeUI, Segoe UI" letter-spacing="-0.02em"><tspan x="0" y="32">687</tspan></text>
+            <text id="lorem_ipsum-2" data-name="lorem ipsum" transform="translate(0 51)" fill="#808d9e" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">lorem ipsum</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Chart-2" data-name="Chart">
+        <g id="Shape-5" data-name="Shape">
+          <path id="Shape-border-2" data-name="Shape-border" d="M35.5,70A34.5,34.5,0,0,0,70,35.5h1A35.5,35.5,0,0,1,35.5,71ZM0,35.5A35.5,35.5,0,0,1,35.5,0V1a34.5,34.5,0,0,0,0,69v1A35.5,35.5,0,0,1,0,35.5Zm70,0A34.5,34.5,0,0,0,35.5,1V0A35.5,35.5,0,0,1,71,35.5Z" fill="#f2f4fc"/>
+        </g>
+        <path id="Shape-6" data-name="Shape" d="M24,48A24,24,0,1,0,0,24,24,24,0,0,0,24,48Z" transform="translate(11.5 11.5)" fill="#b5e4ca"/>
+        <g id="Icon_Frame-2" data-name="Icon Frame" transform="translate(23.5 23.5)">
+          <path id="Background-2" data-name="Background" d="M0,0H24V24H0Z" fill="none"/>
+          <g id="Vector_99" data-name="Vector 99" transform="translate(3 3)">
+            <path id="Vector_99-border" data-name="Vector 99-border" d="M3,18V16H14.36a1,1,0,0,0,.981-.8l1.2-6,1.961.392-1.2,6A3,3,0,0,1,14.36,18ZM0,15V7A1,1,0,0,1,1,6H4.929a1,1,0,0,0,.832-.445L8.277,1.781l1.664,1.11L7.426,6.665A3,3,0,0,1,4.929,8H2v7a1,1,0,0,0,1,1v2A3,3,0,0,1,0,15ZM16.541,9.2A1,1,0,0,0,15.56,8H12a1,1,0,0,1-.986-1.165L12,7h0l-.986-.164L11.82,2l1.973.329L13.18,6h2.38A3,3,0,0,1,18.5,9.589ZM8.277,1.781A4,4,0,0,1,11.606,0V2a2,2,0,0,0-1.664.891ZM11.82,2h-.214V0h.214a2,2,0,0,1,1.973,2.329Z" fill="#1d1e25"/>
+          </g>
+          <g id="Vector_100" data-name="Vector 100" transform="translate(8 10)">
+            <path id="Vector_100-border" data-name="Vector 100-border" d="M0,0V10H0V0Z" fill="#1d1e25"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
