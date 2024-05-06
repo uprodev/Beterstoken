@@ -127,45 +127,62 @@ jQuery(document).ready(function ($) {
   $('.sidebar').wrapInner('<div class="wrap flex flex-col-reverse" />');
 
 
-/*  https://www.w3schools.com/js/tryit.asp?filename=tryai_chartjs_bars_colors_more*/
-  var xValues = ["Elektriciteit", "Aardgas", "Propaan", "Hout, ovengedroogd", "Hout, los gestort", "Pellets"];
-  var yValues = [0.4, 0.2, 0.41, 0.23, 0.15, 0.16];
-  var barColors = ["red", "green","blue","orange","brown"];
-
-  new Chart("myChart", {
-    type: "bar",
-    data: {
-      labels: xValues,
-      datasets: [{
-        backgroundColor: barColors,
-        data: yValues
-      }]
-    },
-    options: {
-      legend: {display: false},
-      title: {
-        display: true,
-        text: "Uw prijs per kWh"
-      },
-      scales: {
-        yAxes: [
-          {
-            scaleLabel: {
-              display: true,
-              labelString: 'Є'
-            },
-          }
-        ],
-        xAxes: [
-          {
-            scaleLabel: {
-              display: true,
-              labelString: ''
-            },
-          }
-        ],
-      }
-    }
+  let data1=0.5,
+      data2=0.2;
+  $('#data-1').change(function(){
+    data1 = $(this).val();
+    changeData();
   });
+  $('#data-2').change(function(){
+    data2 = $(this).val();
+    changeData();
+  });
+
+  function changeData() {
+    /*  https://www.w3schools.com/js/tryit.asp?filename=tryai_chartjs_bars_colors_more*/
+    var xValues = ["Elektriciteit", "Aardgas", "Propaan", "Hout, ovengedroogd", "Hout, los gestort", "Pellets"];
+    var yValues = [data1, data2, 0.41, 0.23, 0.15, 0.16];
+    var barColors = ["red", "green","blue","orange","brown"];
+
+    new Chart("myChart", {
+      type: "bar",
+      data: {
+        labels: xValues,
+        datasets: [{
+          backgroundColor: barColors,
+          data: yValues
+        }]
+      },
+      options: {
+        legend: {display: false},
+        title: {
+          display: true,
+          text: "Uw prijs per kWh"
+        },
+        scales: {
+          yAxes: [
+            {
+              scaleLabel: {
+                display: true,
+                labelString: 'Є'
+              },
+            }
+          ],
+          xAxes: [
+            {
+              scaleLabel: {
+                display: true,
+                labelString: ''
+              },
+            }
+          ],
+        }
+      }
+    });
+  };
+  changeData();
+
+
+
 
 });
